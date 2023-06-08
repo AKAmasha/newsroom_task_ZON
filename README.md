@@ -12,4 +12,5 @@ _With [this link](https://datawrapper.dwcdn.net/0guiz/1/), one can also see the 
 ![newsroom_task_zeitonline](https://github.com/AKAmasha/newsroom_task_ZON/assets/99220480/89e22bbc-2e97-47a0-969d-4793ccc9867a)
 
 Not quite as pretty, but more informative, I feel. Also, my first try with R. :D 
+R skript can be found in repo. 
 
